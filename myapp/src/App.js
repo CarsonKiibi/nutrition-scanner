@@ -1,12 +1,12 @@
 import React from 'react';
-import HelloWorld from './HelloWorld';
+import MockFrontEnd from './MockFrontEnd';
 
 function App() {
   return (
     <div>
-      <HelloWorld />
+      <MockFrontEnd />
     </div>
   );
 }
-
+// change everything to HelloWorld if need
 export default App;
